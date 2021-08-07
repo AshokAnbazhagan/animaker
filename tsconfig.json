@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.paths.json",
+  "compilerOptions": {
+    "outDir": "./lib"
+    // "noImplicitAny": true
+  },
+  "include": [
+    "./src",
+    "../models/src"
+  ]
+}

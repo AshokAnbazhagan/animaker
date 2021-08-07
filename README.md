@@ -1,6 +1,6 @@
 ## Setup
 
-1. Clone nexus repository.
+1. Clone Animaker miniproject repository.
 ```
 https://github.com/AshokAnbazhagan/animaker.git
 cd animaker

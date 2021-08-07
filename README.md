@@ -11,7 +11,12 @@ cd animaker
 yarn
 ```
 
-3. Navigate to package which you want to start.
+3. Run the project using below command.
 ```
 yarn start
+```
+
+4. It will be run at port 8080.
+```
+http://localhost:8080
 ```

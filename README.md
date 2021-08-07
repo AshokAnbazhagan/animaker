@@ -1,29 +1,17 @@
-# README #
+## Setup
 
-This README would normally document whatever steps are necessary to get your application up and running.
+1. Clone nexus repository.
+```
+git clone https://github.com/amagimedia/nexus.git
+cd nexus
+```
 
-### What is this repository for? ###
+2. Install dependencies.
+```
+yarn
+```
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+3. Navigate to package which you want to start.
+```
+yarn start
+```

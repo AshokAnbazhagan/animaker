@@ -2,8 +2,8 @@
 
 1. Clone nexus repository.
 ```
-git clone https://github.com/amagimedia/nexus.git
-cd nexus
+https://github.com/AshokAnbazhagan/animaker.git
+cd animaker
 ```
 
 2. Install dependencies.
